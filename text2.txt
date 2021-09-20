@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 This is demo 2
 This is Soma Sekhar
-=======
-This is test 2
-This is Soma Sekhar
->>>>>>> refs/remotes/origin/master
+
